@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartWorkingDirectory>E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\exe\Walkinside 5.4\</StartWorkingDirectory>
+    <StartAction>Program</StartAction>
+    <StartProgram>E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\exe\Walkinside 5.4\WalkinsideNet.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\Damaso AgLa4d\Documents\SDK\aGlA4D\Walkinside 6.0\120127_4DSimulation\exe\WalkinsideNet2.exe</StartProgram>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory />
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

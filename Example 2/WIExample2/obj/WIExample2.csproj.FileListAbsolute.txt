@@ -1,0 +1,10 @@
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\exe\Walkinside 5.4\plugins\applications\WIExample2.dll
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\exe\Walkinside 5.4\plugins\applications\WIExample2.pdb
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\Examples\Viewer\Example 2\WIExample2\obj\Debug\ResolveAssemblyReference.cache
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\Examples\Viewer\Example 2\WIExample2\obj\Debug\WIExample2.dll
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\Examples\Viewer\Example 2\WIExample2\obj\Debug\WIExample2.pdb
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\exe\Walkinside 5.4\plugins\application\WIExample2.dll
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\exe\Walkinside 5.4\plugins\application\WIExample2.pdb
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\Examples\Viewer\Example 2\WIExample2\obj\Release\ResolveAssemblyReference.cache
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\Examples\Viewer\Example 2\WIExample2\obj\Release\WIExample2.dll
+E:\WalkinsideProjects\5.x_SDK\Walkinside_5.4_SDK\Examples\Viewer\Example 2\WIExample2\obj\Release\WIExample2.pdb
